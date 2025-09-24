@@ -1,0 +1,7 @@
+services:
+  review:
+    image: vvakame/review:5.9
+    volumes:
+      - .:/ai-agent
+    build: .
+    working_dir: /ai-agent
