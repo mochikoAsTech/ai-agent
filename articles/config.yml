@@ -22,8 +22,8 @@ bookname: ai-agent
 language: ja
 
 # 書名
-booktitle: {name: "仮タイトル", file-as: "カリタイトル"}
-subtitle: {name: "仮サブタイトル", file-as: "カリサブタイトル"}
+booktitle: {name: "KEEP WRITING ANYWAY", file-as: "キープライティングエニウェイ"}
+subtitle: {name: "vol. 1", file-as: "ボリュームワン"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "mochikoAsTech", file-as: "モチコアズテック"}]
