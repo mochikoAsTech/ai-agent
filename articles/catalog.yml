@@ -3,7 +3,8 @@ PREDEF:
   - introduction.re
 
 CHAPS:
-  - article.re
+  - writing.re
+  - dayly.re
 
 POSTDEF:
 # あとがき
