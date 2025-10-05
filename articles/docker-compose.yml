@@ -2,6 +2,6 @@ services:
   review:
     image: vvakame/review:5.9
     volumes:
-      - .:/ai-agent
+      - .:/keep-writing-anyway-vol1
     build: .
-    working_dir: /ai-agent
+    working_dir: /keep-writing-anyway-vol1

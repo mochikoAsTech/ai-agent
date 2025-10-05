@@ -17,7 +17,7 @@ review_version: 5.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: ai-agent
+bookname: keep-writing-anyway-vol1
 # 記述言語。省略した場合はja
 language: ja
 
@@ -91,7 +91,7 @@ rights: (C) 2025 mochikoAsTech
 debug: null
 
 # 固有IDに使用するドメイン。省略した場合は時刻に基づくランダムUUIDが入る
-urnid: urn:uuid:https://github.com/mochikoAsTech/ai-agent
+urnid: urn:uuid:https://github.com/mochikoAsTech/keep-writing-anyway-vol1
 #
 # ISBN。省略した場合はurnidが入る
 # isbn: null
