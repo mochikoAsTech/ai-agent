@@ -2,6 +2,6 @@ services:
   review:
     image: vvakame/review:5.9
     volumes:
-      - .:/keep-writing-anyway-vol1
+      - .:/anyway-keep-writing-vol1
     build: .
-    working_dir: /keep-writing-anyway-vol1
+    working_dir: /anyway-keep-writing-vol1
