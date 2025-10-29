@@ -4,7 +4,6 @@ PREDEF:
 
 CHAPS:
   - writing.re
-  - dayly.re
 
 POSTDEF:
 # あとがき
